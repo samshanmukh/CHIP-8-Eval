@@ -1,0 +1,74 @@
+{
+  "add_carry_vf": {
+    "category": "instruction",
+    "cycles": 50,
+    "hash": "15e25d7d121253df547769392b0569ed3433d3d97181dd2bd50c31c70e929288",
+    "weight": 2
+  },
+  "bcd_draw": {
+    "category": "gameplay",
+    "cycles": 100,
+    "hash": "0b3dd63a479149ed9262c36d1362b7f566a83426865c359cff7f067b8ef1b9f2",
+    "weight": 3
+  },
+  "draw_digit": {
+    "category": "gameplay",
+    "cycles": 50,
+    "hash": "b3a46d37f89b8c62b4a5c41833ac62062529a7e7d4dc260f60718f08bfd54815",
+    "weight": 3
+  },
+  "jp_v0_bnnn": {
+    "category": "instruction",
+    "cycles": 50,
+    "hash": "5803b19fff213c5a1813806a2bfacb31d8f23e76bf329d5e27ba77179543647a",
+    "weight": 2
+  },
+  "logic_and": {
+    "category": "instruction",
+    "cycles": 50,
+    "hash": "7d076fd1ceb00268fff15effaef8b619d3c535473b7c0c33bbc5411db7a0a87b",
+    "weight": 2
+  },
+  "loop_sum": {
+    "category": "gameplay",
+    "cycles": 200,
+    "hash": "5533403f14c48d51d1c8f56553df1d1fd50da5679f2fca0822a4bc3ecd531be0",
+    "weight": 3
+  },
+  "quirk_dxyn_clip": {
+    "category": "quirk",
+    "cycles": 50,
+    "hash": "b3800a2981e39ecd1754b6e4720b5e3d6f3f1b7492456085b1ee85a2d227482b",
+    "weight": 2
+  },
+  "quirk_fx55_i": {
+    "category": "quirk",
+    "cycles": 50,
+    "hash": "13dbf75d47c8b9bd3db022c61b0f4d2e2c533c4c1549f613a5e5db893ed4f7e7",
+    "weight": 2
+  },
+  "quirk_shl": {
+    "category": "quirk",
+    "cycles": 50,
+    "hash": "7d076fd1ceb00268fff15effaef8b619d3c535473b7c0c33bbc5411db7a0a87b",
+    "weight": 2
+  },
+  "quirk_shr": {
+    "category": "quirk",
+    "cycles": 50,
+    "hash": "1c7cd9c5c5979ec44aa51f97ba1b8ada37989954b173204b509e7c7f6a1ac73f",
+    "weight": 2
+  },
+  "skip_3xnn": {
+    "category": "instruction",
+    "cycles": 50,
+    "hash": "15e25d7d121253df547769392b0569ed3433d3d97181dd2bd50c31c70e929288",
+    "weight": 2
+  },
+  "sub_borrow_vf": {
+    "category": "instruction",
+    "cycles": 50,
+    "hash": "15e25d7d121253df547769392b0569ed3433d3d97181dd2bd50c31c70e929288",
+    "weight": 2
+  }
+}
